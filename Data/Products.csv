@@ -1,0 +1,40 @@
+Product_ID;Product_Name;Category;Base_Price;Base_Margin
+LAP-001;ApexBook 14 Laptop;Laptops;14500;0.23
+LAP-002;ProBook 15 Laptop;Laptops;17800;0.24
+LAP-003;UltraLite 13 Laptop;Laptops;11900;0.22
+LAP-004;Creator X16 Laptop;Laptops;24500;0.27
+LAP-005;OfficeMate 15 Laptop;Laptops;9800;0.2
+PHN-001;Nova X Smartphone;Smartphones;10900;0.21
+PHN-002;Nova Lite Smartphone;Smartphones;6200;0.19
+PHN-003;Vertex Pro Smartphone;Smartphones;15400;0.24
+PHN-004;Core 5G Smartphone;Smartphones;8300;0.2
+PHN-005;Edge Max Smartphone;Smartphones;18700;0.25
+TAB-001;ViewTab 10;Tablets;6900;0.2
+TAB-002;ViewTab Pro 12;Tablets;10900;0.23
+TAB-003;StudyTab 10;Tablets;5100;0.18
+MON-001;Vision 24 Monitor;Monitors;4200;0.21
+MON-002;Vision 27 Monitor;Monitors;6500;0.22
+MON-003;UltraWide 34 Monitor;Monitors;11200;0.25
+AUD-001;Pulse Wireless Headphones;Audio;1850;0.2
+AUD-002;Studio ANC Headphones;Audio;3290;0.23
+AUD-003;Echo Bluetooth Speaker;Audio;1590;0.19
+AUD-004;BassPro Soundbar;Audio;4490;0.22
+ACC-001;Ergo Wireless Mouse;Accessories;650;0.18
+ACC-002;Mechanical Keyboard;Accessories;1450;0.2
+ACC-003;USB-C Docking Station;Accessories;2290;0.22
+ACC-004;1080p Webcam;Accessories;1190;0.19
+ACC-005;65W Fast Charger;Accessories;790;0.17
+NET-001;Mesh WiFi 6 Router;Networking;2490;0.2
+NET-002;Business WiFi Router;Networking;4890;0.23
+NET-003;8-Port Gigabit Switch;Networking;1690;0.19
+NET-004;5G Mobile Router;Networking;3890;0.22
+STO-001;1TB Portable SSD;Storage;1790;0.21
+STO-002;2TB Portable SSD;Storage;3190;0.23
+STO-003;2TB NVMe SSD;Storage;2890;0.24
+STO-004;4TB External Drive;Storage;4190;0.22
+GAM-001;Pro Gaming Mouse;Gaming;1290;0.2
+GAM-002;RGB Gaming Keyboard;Gaming;2190;0.22
+GAM-003;27 Gaming Monitor;Gaming;7490;0.24
+GAM-004;Entry Gaming Headset;Gaming;990;0.18
+ACC-006;Laptop Sleeve 15;Accessories;590;0.16
+ACC-007;USB-C Hub;Accessories;890;0.18
