@@ -481,5 +481,4 @@ This project demonstrates my ability to work across the analytics lifecycle, fro
 - Analytical Problem Solving
 - Databricks
 
-This project forms part of my BI portfolio and demonstrates my ability to translate data into business-focused analysis and reporting.
 
