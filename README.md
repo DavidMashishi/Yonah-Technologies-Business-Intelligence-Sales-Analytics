@@ -105,7 +105,7 @@ The dataset contains approximately **8,000 sales transactions** covering four ye
 
 The project follows a layered Business Intelligence workflow that separates data preparation, analytical modelling, and reporting responsibilities.
 
-![Yonah Technologies BI Architecture](Images/Architecture.png)
+![Yonah Technologies BI Architecture](https://github.com/DavidMashishi/Yonah-Technologies-Business-Intelligence-Sales-Analytics/blob/75f984d7a06a276c68fbba148a5d7e3c8f8c59a2/Images/Yonah%20Sales%20Business%20Intelligence%20Workflow-The%20Architecture.drawio.png)
 
 The architecture moves from SQL Server staging and dimensional modelling through reporting-ready analytical views into the Power BI semantic model and executive reporting layer.
 
